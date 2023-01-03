@@ -29,7 +29,7 @@
     <header class="site-header js-site-header">
       <div class="container-fluid">
         <div class="row align-items-center">
-          <div class="col-6 col-lg-4 site-logo" data-aos="fade"><a href="index.html">Hotel App</a></div>
+          <div class="col-6 col-lg-4 site-logo" data-aos="fade"><a href="index.html">HotelKu</a></div>
           <div class="col-6 col-lg-8">
 
 
@@ -68,8 +68,8 @@
       <div class="container">
         <div class="row site-hero-inner justify-content-center align-items-center">
           <div class="col-md-10 text-center" data-aos="fade">
-            <h1 class="heading mb-3">Welcome</h1>
-            <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias minima commodi labore exercitationem eveniet blanditiis asperiores? Doloribus similique cupiditate ratione incidunt quasi eum aspernatur blanditiis tempora quia, harum rem, ut ex sequi sapiente magni perspiciatis nobis laboriosam animi nulla tenetur!</p>
+            <h1 class="heading mb-3">A DREAM STAY AT THE BEST PRICE</h1>
+            <p class="text-white">BEST PRICE GUARANTEE</p>
           </div>
         </div>
       </div>
@@ -93,7 +93,7 @@
           </div>
           <div class="col-md-12 col-lg-4 order-lg-1" data-aos="fade-up">
             <h2 class="heading">About</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste dicta ea impedit maiores repellat reprehenderit perferendis illo minima laudantium error?</p>
+            <p class="mb-4">HotelKu merupakan hotel sederhana dengan harga yang terjangkau disertai suasana yang nyaman</p>
           </div>
           
         </div>
@@ -120,7 +120,7 @@
               <div class="back">
                 <!-- back content -->
                 <blockquote>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa libero mollitia rerum nam laboriosam qui accusamus natus a officiis voluptate.</p>
+                  <p>Standar Room merupakan kamar standar yang di fasilitasi dengan 1 Double Bed, 1 Televisi, 1 Kulkas Mini, 1 Kamar Mandi, dan 1 Tiket Breakfast and Dinner</p>
                 </blockquote>
               </div>
             </div>
@@ -138,7 +138,7 @@
               <div class="back">
                 <!-- back content -->
                 <blockquote>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa libero mollitia rerum nam laboriosam qui accusamus natus a officiis voluptate.</p>
+                  <p>Superior Room merupakan kamar dengan tampilan menawan yang di fasilitasi dengan 2 Double Bed, 1 Televisi, 1 Kulkas Mini, 1 Kamar Mandi, dan 2 Tiket Breakfast dan Dinner</p>
                 </blockquote>
               </div>
             </div>
@@ -156,8 +156,8 @@
               <div class="back">
                 <!-- back content -->
                 <blockquote>
-                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa libero mollitia rerum nam laboriosam qui accusamus natus a officiis voluptate.</p>
-                </blockquote>
+                  <p>Deluxe Room merupakan Kamar dengan tampilan yang mewah disertai fasilitas 2 Double Bed, 1 Televisi (Free Netflix), 1 Kulkas Mini, 1 Kamar Mandi, dan 4 tiket Breakfast and Dinner</p>
+                  </blockquote>
               </div>
             </div>
           </div> <!-- .flip-container -->
@@ -171,7 +171,7 @@
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-7">
             <h2 class="heading" data-aos="fade-up">Photos</h2>
-            <p data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum impedit, facere voluptatum deserunt earum enim quis vel eaque alias ipsam suscipit accusantium illum fugit quam.</p>
+            <p data-aos="fade-up" data-aos-delay="100"></p>
           </div>
         </div>
         <div class="row">
@@ -223,20 +223,6 @@
     <footer class="section footer-section">
       <div class="container">
         <div class="row mb-4">
-          <div class="col-md-3 mb-5">
-            <ul class="list-unstyled link">
-              <li><a href="#">About</a></li>
-             <li><a href="#">Rooms</a></li>
-             <li><a href="#">Photos</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 mb-5">
-            <ul class="list-unstyled link">
-              <li><a href="#">Standar Room</a></li>
-              <li><a href="#">Superior Room</a></li>
-              <li><a href="#">Deluxe Room</a></li>
-            </ul>
-          </div>
           <div class="col-md-3 mb-5 pr-md-5 contact-info">
             <!-- <li>198 West 21th Street, <br> Suite 721 New York NY 10016</li> -->
             <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Address:</span> <span> 198 West 21th Street, <br> Suite 721 New York NY 10016</span></p>
@@ -258,14 +244,6 @@
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Universitas Pasundan <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Prakweb</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-          </p>
-            
-          <p class="col-md-6 text-right social">
-            <a href="#"><span class="fa fa-tripadvisor"></span></a>
-            <a href="#"><span class="fa fa-facebook"></span></a>
-            <a href="#"><span class="fa fa-twitter"></span></a>
-            <a href="#"><span class="fa fa-linkedin"></span></a>
-            <a href="#"><span class="fa fa-vimeo"></span></a>
           </p>
         </div>
       </div>
