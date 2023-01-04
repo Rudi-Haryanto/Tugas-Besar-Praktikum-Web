@@ -46,10 +46,10 @@
                   <div class="row full-height align-items-center">
                     <div class="col-md-6 mx-auto">
                       <ul class="list-unstyled menu">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="rooms.html">Rooms</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#room">Rooms</a></li>
+                        <li><a href="#contact">Contact</a></li>
                         <li><a href="/login">Login</a></li>
                         <li><a href="/register">Register</a></li>
                       </ul>
@@ -82,7 +82,7 @@
     </section>
     <!-- END section -->
 
-    <section class="py-5 bg-light" id="next">
+    <section class="py-5 bg-light" id="about">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-12 col-lg-7 ml-auto order-lg-2 position-relative mb-5" data-aos="fade-up">
@@ -100,7 +100,7 @@
       </div>
     </section>
 
-    <div class="container section">
+    <div class="container section" id="room">
 
       <div class="row justify-content-center text-center mb-5">
         <div class="col-md-7 mb-5">
@@ -220,7 +220,7 @@
         </div>
       </section>
 
-    <footer class="section footer-section">
+    <footer class="section footer-section" id="contact">
       <div class="container">
         <div class="row mb-4">
           <div class="col-md-3 mb-5 pr-md-5 contact-info">
