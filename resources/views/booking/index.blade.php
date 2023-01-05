@@ -3,7 +3,7 @@
 @section('container')
   <!-- Page Heading -->
   <h1 class="h3 mb-2 text-gray-800">Data Bookings</h1>
-  <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati inventore deserunt incidunt ad dolorem similique deleniti placeat accusamus temporibus aliquid!</p>
+  <p class="mb-4"></p>
 
   <a href="{{ route('bookings.create') }}" class="mb-4 btn btn-primary btn-icon-split">
     <span class="icon text-white-50">
